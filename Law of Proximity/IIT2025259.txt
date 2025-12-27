@@ -1,1 +1,16 @@
 Link to Figma Draft: https://www.figma.com/design/53fNvgDhDH2ggaiylUnyOn/Law-of-Proximity?node-id=0-1&t=C2jTwSV5nT38iOCy-1
+
+Explanation:
+
+The textbook definition of 'Law of Proximity" is that people perceive objects close to each other as belonging to a group,
+forming relationships and patterns based on their physical closeness rather than unrelated attributes like shape or color.
+
+In the figma draft I provided, it shows two examples, left one showing poor proximity and other showing good proximity:
+
+In the left design, there is no visual grouping, that is all tasks are mixed together.
+This makes navigation harder, i.e. user must scroll thorugh the entire list looking for a specific task.
+It increases cognitive load as user must read every item to understand relationships.
+
+In the right design, related items are placed together and given a heading.
+Groups have clear spacing between them, making the structure approachable.
+Navigation is easier as headings make groups clear and the user won't have to read through all tasks to find a specific task.
