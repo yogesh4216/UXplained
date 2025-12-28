@@ -1,1 +1,16 @@
 https://www.figma.com/design/f6IOqXUxi7KO2DcEV0hsmO/Law-of-Proximity?node-id=0-1&t=QxxfvtSuKvT9FxP2-1
+
+This design demonstrates the Law of Proximity using two clear states:
+
+Grouped Elements (Good Proximity):
+Related form fields (card number, expiry date, full name) are placed close together, with action buttons 
+separated by extra spacing. Consistent alignment and spacing make relationships clear, improve readability, 
+and guide the user logically from input to action.
+
+Ungrouped Elements (Poor Proximity):
+Related fields are spaced inconsistently, and the submit button is placed between inputs. 
+This breaks logical grouping, increases cognitive load, and makes the form harder to scan and understand.
+
+Key Principle:
+Spacing and alignment alone communicate structure. Proper proximity improves clarity; 
+poor proximity creates confusion.
