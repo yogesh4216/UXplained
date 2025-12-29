@@ -1,1 +1,19 @@
 Figma link: https://www.figma.com/design/xtOa1SjroWwZd0LoCq2XUa/law-of-similarity?node-id=0-1&t=HMFiFpPCPXcJtXKK-1
+
+Explanation:
+Law of Similarity states that elements that look similar are percieved as related.
+
+The design I provided is that of the news website homepage.
+
+The differences between the bad design and the good design are ass follows:
+
+The nav bar in bad design has links to other webpages but all the links have different colour and don't follow a pattern.
+The nav bar in the good design has all links to web pages in the same colour, showing that their behaviour is the same.
+
+Buttons in the bad design (sign in and subscribe) can't be differentiated from the other nav bar links.
+Buttons in the good design are given distinct style.
+
+News tags in the bad design are all given the same colour. In the good design they are given different colours to differentiate between them.
+
+Advertisement in the bad design cannot be differentiated from other news articles. In the good design the ad is given a distinct shape and region.
+The "Ad" tag is also given a different style differentiating it from other news tags.
