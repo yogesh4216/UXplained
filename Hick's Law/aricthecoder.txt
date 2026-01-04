@@ -1,0 +1,17 @@
+https://www.figma.com/design/RpGyNWk4bbb8aEdEP1CVHG/Untitled?node-id=0-1&t=NgUIHE5EqEV70ri8-1
+
+Explaination:
+
+This UI demonstrates Hick’s Law, which states that the time it takes for a user to make a decision increases as the number of choices increases.
+
+/////////// Left screen (Poor application of Hick’s Law):
+The user is presented with a long, scrollable list of mood options that are very similar in meaning. 
+Because there are too many choices, the user has to read, compare, and think before selecting one. This increases cognitive load, slows decision-making, and can even cause hesitation or frustration.
+
+//////////  Right screen (Good application of Hick’s Law):
+The same question is asked, but the options are reduced to a small, well-defined set. 
+Each choice is clearly distinct and visible without scrolling. 
+This limits mental effort, helps the user quickly recognize their mood, and enables faster, more confident decisions.
+
+////////// Conclusion:
+By reducing and organizing choices, the right design respects Hick’s Law and creates a smoother, more efficient user experience, while the left design overwhelms users and delays decision-making.
