@@ -1,0 +1,8 @@
+link - https://www.figma.com/design/8uCOxIZnNIZK2OROtp4LOL/Untitled?node-id=0-1&t=xNobKokCiOGWHU3f-1
+
+In the first screen, the user is shown too many feedback options at once. There are similar choices like “very good”, “good and very much satisfied”, “good”, “good but not as to expectation”, etc. Because so many options look almost the same, the user has to spend extra time reading, comparing, and thinking before selecting one. This increases decision time and mental load.
+
+In the second screen, the options are reduced and grouped more clearly. Now the user only sees a few meaningful choices like very satisfied, okay, needs improvement, and bad. With fewer, clearer options, the user can decide faster and with more confidence.
+
+This follows Hick’s Law:
+The more choices you give, the longer it takes to decide.
