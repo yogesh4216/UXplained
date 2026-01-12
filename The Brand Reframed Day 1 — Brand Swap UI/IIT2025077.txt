@@ -1,0 +1,4 @@
+Figma Link:https://www.figma.com/design/gEBfgrjjTMAr79u3DpC6xd/Untitled?node-id=2-5&t=2I4GHZokBFKOoGLB-1
+Brand Swap: Swiggy to Zomato
+Description: In this design i have completely preserved zomato UI and used it for swiggy 
+             also keeping the official tagline of swiggy same i.e The food you love on time .
